@@ -10,7 +10,7 @@ Desafio consiste nos princípios básicos do react juntamente com react-native, 
 ```bash
 # Partindo do principio que você tem a cli do expo em sua maquina.
 # Abra o Terminal da sua maquina e clone o projeto, no local desajado execute:
-    https://github.com/italoSouzaTI/desafio-monile-rocketSeat-01.git
+    https://github.com/italoSouzaTI/desafio-mobile-rocketSeat-01.git
 
 # Abra no seu editor de preferência e execute:
 $ yarn
