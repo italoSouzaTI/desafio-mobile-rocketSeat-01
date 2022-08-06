@@ -17,6 +17,7 @@ export const styles = StyleSheet.create({
     },
     label: {
         flex: 1,
+        fontFamily: 'Inter_400Regular',
 
     }
 });

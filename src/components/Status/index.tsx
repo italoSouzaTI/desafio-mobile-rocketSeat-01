@@ -2,7 +2,12 @@ import React from 'react';
 import { View, Text } from 'react-native';
 import { styles } from './styles';
 
-const Status: React.FC = () => {
+
+type countProps = {
+    countTask: number;
+    complete: number;
+}
+const Status: React.FC<countProps> = ({ countTask, complete }) => {
 
     return (
         <View
@@ -19,7 +24,7 @@ const Status: React.FC = () => {
                 >
                     <Text
                         style={styles.textCount}
-                    >0</Text>
+                    >{countTask ?? '0'}</Text>
                 </View>
             </View>
             <View
@@ -33,7 +38,7 @@ const Status: React.FC = () => {
                 >
                     <Text
                         style={styles.textCount}
-                    >0</Text>
+                    >{complete ?? '0'}</Text>
                 </View>
             </View>
         </View>

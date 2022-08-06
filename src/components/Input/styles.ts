@@ -17,7 +17,8 @@ export const styles = StyleSheet.create({
         borderRadius: 6,
         paddingHorizontal: 10,
         marginRight: 2,
-        color: '#fff'
+        color: '#fff',
+        fontFamily: 'Inter_400Regular'
     },
     buttonAdd: {
         width: 52,

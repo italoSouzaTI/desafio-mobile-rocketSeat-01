@@ -9,6 +9,7 @@ export const styles = StyleSheet.create({
     label: {
         fontSize: 14,
         color: '#808080',
-        fontWeight: 'bold'
+        fontWeight: 'bold',
+        fontFamily: 'Inter_700Bold'
     }
 });

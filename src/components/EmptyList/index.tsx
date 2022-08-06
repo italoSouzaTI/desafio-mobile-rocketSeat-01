@@ -25,7 +25,8 @@ const EmptyList: React.FC = () => {
             </Text>
             <Text
                 style={[styles.label, {
-                    fontWeight: 'normal'
+                    fontFamily: 'Inter_400Regular',
+                    fontWeight: "normal"
                 }]}
             >
                 Crie tarefas e organize seus itens a fazer
