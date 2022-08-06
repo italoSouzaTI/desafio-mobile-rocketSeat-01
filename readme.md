@@ -1,7 +1,9 @@
 # Desafio todo mobile
 Desafio consiste nos princípios básicos do react juntamente com react-native, utilizando stylesSheet e uuid e hook useState com herança de componente filho para pai.
 
-[](https://media.giphy.com/media/Ou1Ygj7ajQfNomp1Fx/giphy.gif)
+# Demo
+
+![demo](https://media.giphy.com/media/Ou1Ygj7ajQfNomp1Fx/giphy.gif)
 
 
 # Acessar
